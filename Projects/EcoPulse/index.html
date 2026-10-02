@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EcoPulse – Sustainability Carbon Tracker</title>
+  <meta name="description" content="EcoPulse helps you measure, understand and reduce your carbon footprint.">
+  <script>try{var t=localStorage.getItem('ecopulse:theme')||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');document.documentElement.dataset.theme=t}catch(e){}</script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<!-- NAVBAR -->
+<header class="navbar" id="navbar">
+  <div class="container navbar-inner">
+    <a href="#home" class="logo" aria-label="EcoPulse home"><span class="logo-mark" aria-hidden="true"></span>EcoPulse</a>
+    <nav class="nav-menu" id="navMenu" aria-label="Main">
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#how-it-works">How It Works</a></li>
+        <li><a href="#calculator">Calculator</a></li>
+        <li><a href="#dashboard">Dashboard</a></li>
+        <li><a href="#goals">Goals</a></li>
+        <li><a href="#actions">Eco Actions</a></li>
+        <li><a href="#insights">Insights</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+      <div class="nav-actions">
+        <button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false" aria-label="Switch to dark mode"><span class="icon-sun" aria-hidden="true">☀️</span><span class="icon-moon" aria-hidden="true">🌙</span><span class="theme-label">Switch to dark mode</span></button>
+        <a href="#calculator" class="cta-button cta-small">Calculate My Footprint</a>
+      </div>
+    </nav>
+    <!-- Mobile only: theme icon + hamburger -->
+    <div class="nav-tools">
+      <button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false" aria-label="Switch to dark mode"><span class="icon-sun" aria-hidden="true">☀️</span><span class="icon-moon" aria-hidden="true">🌙</span></button>
+      <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="navMenu" aria-label="Toggle menu"><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+<!-- HERO -->
+<section class="hero" id="home">
+  <div class="container hero-grid">
+    <div class="hero-content">
+      <p class="badge">Demo preview · calculator coming soon</p>
+      <h1>Understand Your Carbon Impact.</h1>
+      <p class="hero-lead">Measure your footprint, understand what drives it, and discover practical ways to make a difference.</p>
+      <div class="hero-actions">
+        <a href="#calculator" class="cta-button">Calculate My Footprint</a>
+        <a href="#simulator" class="cta-button cta-ghost">Explore Your Impact</a>
+      </div>
+    </div>
+
+    <!-- Impact card: values come from data-* attributes so real data can replace them later -->
+    <div class="hero-visual">
+      <div class="earth" aria-hidden="true"></div>
+      <article class="impact-card" aria-labelledby="impactTitle">
+        <header>
+          <h2 id="impactTitle">Your Environmental Impact</h2>
+          <span class="tag">Demo data</span>
+        </header>
+        <p class="impact-total"><strong data-count="185">185</strong> kg <span>CO₂e / month</span></p>
+        <ul class="impact-list">
+          <li style="--value:50"><span>Transportation</span><b>92 kg</b><i class="bar"></i></li>
+          <li style="--value:26"><span>Energy</span><b>48 kg</b><i class="bar"></i></li>
+          <li style="--value:19"><span>Food</span><b>35 kg</b><i class="bar"></i></li>
+          <li style="--value:5"><span>Waste</span><b>10 kg</b><i class="bar"></i></li>
+        </ul>
+      </article>
+      <div class="float-card float-trend"><b>↓ 12%</b><span>vs previous month</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- HOW IT WORKS (a real sequence, so numbering is meaningful) -->
+<section class="section" id="how-it-works">
+  <div class="container">
+    <div class="section-head"><h2>From activity to action in four steps</h2><p>Measure, understand, then act.</p></div>
+    <ol class="steps">
+      <li class="step-card reveal"><span class="step-number">01</span><h3>Enter your data</h3><p>Add travel, energy, food, shopping and waste.</p></li>
+      <li class="step-card reveal"><span class="step-number">02</span><h3>Calculate your impact</h3><p>See an estimated CO₂e total for the month.</p></li>
+      <li class="step-card reveal"><span class="step-number">03</span><h3>Understand your results</h3><p>Find which activities contribute the most.</p></li>
+      <li class="step-card reveal"><span class="step-number">04</span><h3>Take sustainable action</h3><p>Pick practical changes and track the result.</p></li>
+    </ol>
+  </div>
+</section>
+
+<!-- FEATURES -->
+<section class="section section-tint" id="features">
+  <div class="container">
+    <div class="section-head"><h2>Everything you need to track your footprint</h2></div>
+    <div class="feature-grid">
+      <article class="feature-card reveal"><span class="icon" aria-hidden="true">🌍</span><h3>Carbon Tracking</h3><p>Track estimated emissions from everyday activities.</p></article>
+      <article class="feature-card reveal"><span class="icon" aria-hidden="true">🚗</span><h3>Transportation</h3><p>Estimate emissions from different travel methods.</p></article>
+      <article class="feature-card reveal"><span class="icon" aria-hidden="true">⚡</span><h3>Energy</h3><p>Track electricity and household energy impact.</p></article>
+      <article class="feature-card reveal"><span class="icon" aria-hidden="true">🍽️</span><h3>Food</h3><p>Understand the environmental impact of food choices.</p></article>
+      <article class="feature-card reveal"><span class="icon" aria-hidden="true">♻️</span><h3>Waste</h3><p>Track waste generation and recycling habits.</p></article>
+      <article class="feature-card reveal"><span class="icon" aria-hidden="true">📊</span><h3>Impact Dashboard</h3><p>Visualize your footprint and progress.</p></article>
+      <article class="feature-card reveal"><span class="icon" aria-hidden="true">🎯</span><h3>Sustainability Goals</h3><p>Set measurable environmental goals.</p></article>
+      <article class="feature-card feature-upcoming reveal"><span class="icon" aria-hidden="true">🤖</span><h3>AI Insights <span class="tag">Upcoming</span></h3><p>Personalized recommendations based on your own data. Not available yet.</p></article>
+    </div>
+  </div>
+</section>
+
+<!-- IMPACT / STATS -->
+<section class="section section-dark" id="impact">
+  <div class="container">
+    <div class="section-head"><h2>Impact at a glance</h2><p><span class="tag">Demo data</span> Sample values, not real measurements.</p></div>
+    <div class="stat-grid">
+      <div class="stat-card"><strong data-count="185" data-suffix=" kg">185 kg</strong><span>CO₂ tracked</span></div>
+      <div class="stat-card"><strong data-count="24" data-suffix="%">24%</strong><span>Potential reduction</span></div>
+      <div class="stat-card"><strong data-count="12">12</strong><span>Sustainable actions</span></div>
+      <div class="stat-card"><strong data-count="78" data-suffix="/100">78/100</strong><span>Impact score</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- CALCULATOR (functional) -->
+<section class="section" id="calculator">
+  <div class="container">
+    <div class="section-head"><h2>Estimate your monthly footprint</h2><p>Fill in what you know. The emission factors are demo placeholders, so treat the result as a rough estimate.</p></div>
+    <div class="calc-grid">
+      <form id="calcForm" class="calc-form" novalidate>
+        <fieldset><legend>🚗 Transportation</legend>
+          <label>Car distance (km / month)<input type="number" name="carKm" min="0" inputmode="decimal"></label>
+          <label>Public transport (km / month)<input type="number" name="transitKm" min="0" inputmode="decimal"></label>
+        </fieldset>
+        <fieldset><legend>⚡ Energy</legend>
+          <label>Electricity (kWh / month)<input type="number" name="kwh" min="0" inputmode="decimal"></label>
+          <label>LPG (kg / month)<input type="number" name="lpgKg" min="0" inputmode="decimal"></label>
+        </fieldset>
+        <fieldset><legend>🍽️ Food</legend>
+          <label>Diet type<select name="diet"><option value="meat">Meat most days</option><option value="average">Mixed</option><option value="vegetarian">Vegetarian</option><option value="vegan">Vegan</option></select></label>
+        </fieldset>
+        <fieldset><legend>🛍️ Consumption</legend>
+          <label>Clothing items bought (per month)<input type="number" name="clothing" min="0" inputmode="numeric"></label>
+        </fieldset>
+        <fieldset><legend>♻️ Waste</legend>
+          <label>General waste (kg / month)<input type="number" name="wasteKg" min="0" inputmode="decimal"></label>
+          <label>Share recycled: <output id="recyclingOut">30%</output><input type="range" name="recycling" min="0" max="100" step="5"></label>
+        </fieldset>
+        <div class="form-actions"><button type="submit" class="cta-button">Calculate and save</button><button type="button" class="cta-button cta-outline" id="resetBtn">Reset</button></div>
+        <p class="form-msg" id="formMsg" role="status"></p>
+      </form>
+      <aside class="result-card" aria-labelledby="resultTitle">
+        <h3 id="resultTitle">Your current impact <span class="tag" id="resultTag">Demo data</span></h3>
+        <p class="result-total"><strong id="resultTotal">0</strong> kg CO₂e / month</p>
+        <div class="meter" aria-hidden="true"><i id="meterFill"></i></div>
+        <p class="meter-label" id="meterLabel"></p>
+        <ul class="breakdown" id="breakdown"></ul>
+        <p class="note">Estimate only. Calculated in your browser and saved on this device.</p>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<!-- DASHBOARD PREVIEW -->
+<section class="section section-tint" id="dashboard">
+  <div class="container">
+    <div class="section-head"><h2>A look at your future dashboard</h2><p><span class="tag">Demo data</span></p></div>
+    <div class="dashboard">
+      <article class="panel">
+        <h3>Monthly footprint</h3>
+        <p class="panel-value">185 <small>kg CO₂e</small></p>
+        <p class="panel-sub">↓ 12% from last month</p>
+      </article>
+      <article class="panel panel-trend">
+        <h3>Progress trend (6 months)</h3>
+        <div class="trend" role="img" aria-label="Demo bar chart: footprint falling from 240 to 185 kilograms over six months">
+          <i style="--value:100"></i><i style="--value:94"></i><i style="--value:90"></i><i style="--value:86"></i><i style="--value:82"></i><i style="--value:77"></i>
+        </div>
+      </article>
+      <article class="panel">
+        <h3>Category breakdown</h3>
+        <ul class="mini-list">
+          <li style="--value:50"><span>Transport</span><i class="bar"></i></li>
+          <li style="--value:26"><span>Energy</span><i class="bar"></i></li>
+          <li style="--value:19"><span>Food</span><i class="bar"></i></li>
+        </ul>
+      </article>
+      <article class="panel">
+        <h3>Sustainability score</h3>
+        <div class="score-ring" style="--value:78"><b>78</b></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- WHAT-IF SIMULATOR (functional) -->
+<section class="section section-dark" id="simulator">
+  <div class="container">
+    <div class="section-head"><h2>What if I changed one habit?</h2><p>Move a slider and see the projected change. It uses your saved calculation, or the demo values if you have not calculated yet.</p></div>
+    <div class="sim-grid">
+      <div class="sim-controls">
+        <label>🚗 Car distance: <output id="simCarOut">0%</output> less<input type="range" id="simCar" min="0" max="100" step="5" value="0"></label>
+        <label>⚡ Electricity: <output id="simEnergyOut">0%</output> less<input type="range" id="simEnergy" min="0" max="100" step="5" value="0"></label>
+        <label>🍽️ Food footprint: <output id="simFoodOut">0%</output> less<input type="range" id="simFood" min="0" max="50" step="5" value="0"></label>
+      </div>
+      <div class="before-after" aria-live="polite">
+        <div class="ba-row"><span>Before</span><div class="fill"><i id="baBefore"></i></div><b id="baBeforeVal"></b></div>
+        <div class="ba-row"><span>After</span><div class="fill"><i id="baAfter"></i></div><b id="baAfterVal"></b></div>
+        <p class="sim-saving" id="simSaving"></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ECO ACTIONS + STREAK + XP (functional, saved locally) -->
+<section class="section" id="actions">
+  <div class="container">
+    <div class="section-head"><h2>Eco actions</h2><p>Complete an action once per day to build your streak and earn XP. Impact figures are demo estimates.</p></div>
+    <div class="stats-row">
+      <div class="panel"><h3>🔥 Current streak</h3><p class="panel-value" id="streakNow">0 <small>days</small></p></div>
+      <div class="panel"><h3>Longest streak</h3><p class="panel-value" id="streakBest">0 <small>days</small></p></div>
+      <div class="panel"><h3>Eco level <span id="levelNum">1</span></h3><div class="fill"><i id="xpFill"></i></div><p class="panel-sub" id="xpText"></p></div>
+    </div>
+    <div class="action-grid" id="actionGrid"></div>
+  </div>
+</section>
+
+<!-- RECOMMENDATIONS (Insights) -->
+<section class="section" id="insights">
+  <div class="container">
+    <div class="section-head"><h2>Practical actions to reduce your impact</h2><p>Examples of the kind of suggestions you will see. These are fixed samples, not AI-generated.</p></div>
+    <div class="rec-grid">
+      <article class="rec-card reveal"><h3>💡 Reduce short car trips</h3><p class="impact-level">Potential impact: <b>Medium</b></p><p>Replace 2 short car journeys per week with walking, cycling, or public transport.</p></article>
+      <article class="rec-card reveal"><h3>🔌 Cut unnecessary electricity use</h3><p class="impact-level">Potential impact: <b>Medium</b></p><p>Switch off standby devices and use efficient lighting.</p></article>
+      <article class="rec-card reveal"><h3>♻️ Improve recycling</h3><p class="impact-level">Potential impact: <b>Low</b></p><p>Separate paper, plastic and organic waste at home.</p></article>
+      <article class="rec-card reveal"><h3>🥗 Reduce food waste</h3><p class="impact-level">Potential impact: <b>Medium</b></p><p>Plan meals for the week and use leftovers.</p></article>
+      <article class="rec-card reveal"><h3>🚆 Choose lower-impact transport</h3><p class="impact-level">Potential impact: <b>High</b></p><p>Pick trains or buses over flights and solo car trips where you can.</p></article>
+    </div>
+  </div>
+</section>
+
+<!-- GOAL PREVIEW -->
+<section class="section section-dark" id="goals">
+  <div class="container goal-grid">
+    <div>
+      <h2>Your Sustainability Goal</h2>
+      <p class="lead">Set a target, then watch your progress build month by month.</p>
+      <a href="#goal" class="cta-button">Set a Goal</a>
+    </div>
+    <article class="goal-card" id="goal">
+      <h3>Reduce monthly footprint by 20%</h3>
+      <div class="progress" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100" aria-label="Goal progress"><i style="--value:72"></i></div>
+      <p class="goal-percent">72% of the way there</p>
+      <dl class="goal-meta"><div><dt>Current reduction</dt><dd>14%</dd></div><div><dt>Target</dt><dd>20%</dd></div></dl>
+      <span class="tag">Demo data</span>
+    </article>
+  </div>
+</section>
+
+<!-- WHY ECOPULSE -->
+<section class="section" id="about">
+  <div class="container">
+    <div class="section-head"><h2>Why EcoPulse?</h2></div>
+    <div class="why-grid">
+      <div><h3>Awareness</h3><p>See where your emissions come from.</p></div>
+      <div><h3>Measurable impact</h3><p>Turn habits into numbers you can compare.</p></div>
+      <div><h3>Practical actions</h3><p>Get changes that fit into daily life.</p></div>
+      <div><h3>Continuous improvement</h3><p>Track progress and keep refining.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- FINAL CTA -->
+<section class="final-cta">
+  <div class="container">
+    <h2>Ready to understand your impact?</h2>
+    <a href="#calculator" class="cta-button">Calculate My Footprint</a>
+  </div>
+</section>
+
+</main>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="container footer-grid">
+    <div><a href="#home" class="logo"><span class="logo-mark" aria-hidden="true"></span>EcoPulse</a><p>Track. Understand. Reduce.</p></div>
+    <nav aria-label="Footer navigation"><h2>Explore</h2><ul><li><a href="#how-it-works">How It Works</a></li><li><a href="#features">Features</a></li><li><a href="#impact">Impact</a></li></ul></nav>
+    <nav aria-label="Legal"><h2>About</h2><ul><li><a href="#about">Why EcoPulse</a></li><li><a href="#home">Privacy (soon)</a></li><li><a href="#home">Terms (soon)</a></li></ul></nav>
+  </div>
+  <p class="container copyright">© 2026 EcoPulse. Figures shown are demo data and estimates, not exact measurements.</p>
+</footer>
+
+
+<script src="script.js"></script>
+</body>
+</html>
