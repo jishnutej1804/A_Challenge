@@ -9,7 +9,7 @@
 | 📅 Date | 📝 Work Completed | 🧠 Learning / Outcome | ✅ |
 |:---:|:---|:---|:---:|
 | Oct 01 | Solved Two Sum | HashMap • O(n) | ✅ |
-| Oct 02 | — | — | ⬜ |
+| Oct 02 | Initialized EcoPulse sustainability tracker UI | Built responsive HTML/CSS/JS structure and tested desktop/mobile layout | ✅ |
 | Oct 03 | — | — | ⬜ |
 | Oct 04 | — | — | ⬜ |
 | Oct 05 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 1 / 31
+**Completed:** 2 / 31
 
-**Consistency:** █░░░░░░░░░░ 3%
+**Consistency:** ██░░░░░░░░░ 6%
 
 ---
 
