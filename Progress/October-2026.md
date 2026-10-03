@@ -10,7 +10,7 @@
 |:---:|:---|:---|:---:|
 | Oct 01 | Solved Two Sum | HashMap • O(n) | ✅ |
 | Oct 02 | Initialized EcoPulse sustainability tracker UI | Built responsive HTML/CSS/JS structure and tested desktop/mobile layout | ✅ |
-| Oct 03 | — | — | ⬜ |
+| Oct 03 | Solved Valid Anagram | Frequency count array • O(n) • O(1) space | ✅ |
 | Oct 04 | — | — | ⬜ |
 | Oct 05 | — | — | ⬜ |
 | Oct 06 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 2 / 31
+**Completed:** 3 / 31
 
-**Consistency:** ██░░░░░░░░░ 6%
+**Consistency:** ███░░░░░░░░ 10%
 
 ---
 
