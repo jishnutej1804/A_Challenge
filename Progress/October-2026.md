@@ -11,7 +11,7 @@
 | Oct 01 | Solved Two Sum | HashMap • O(n) | ✅ |
 | Oct 02 | Initialized EcoPulse sustainability tracker UI | Built responsive HTML/CSS/JS structure and tested desktop/mobile layout | ✅ |
 | Oct 03 | Solved Valid Anagram | Frequency count array • O(n) • O(1) space | ✅ |
-| Oct 04 | — | — | ⬜ |
+| Oct 04 | Created EcoPulse database schema and analytical queries | Practiced SELECT, SUM() and GROUP BY for carbon-emission analysis | ✅ |
 | Oct 05 | — | — | ⬜ |
 | Oct 06 | — | — | ⬜ |
 | Oct 07 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 3 / 31
+**Completed:** 4 / 31
 
-**Consistency:** ███░░░░░░░░ 10%
+**Consistency:** ████░░░░░░░░ 13%
 
 ---
 
