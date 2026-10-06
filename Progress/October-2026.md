@@ -13,7 +13,7 @@
 | Oct 03 | Solved Valid Anagram | Frequency count array • O(n) • O(1) space | ✅ |
 | Oct 04 | Created EcoPulse database schema and analytical queries | Practiced SELECT, SUM() and GROUP BY for carbon-emission analysis | ✅ |
 | Oct 05 | Solved Valid Palindrome | Two Pointers • O(n) • O(1) space | ✅ |
-| Oct 06 | — | — | ⬜ |
+| Oct 06 | Tested EcoPulse dynamic carbon calculator | Verified DOM-based calculation, reset functionality, and saved results persistence | ✅ |
 | Oct 07 | — | — | ⬜ |
 | Oct 08 | — | — | ⬜ |
 | Oct 09 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 5 / 31
+**Completed:** 6 / 31
 
-**Consistency:** █████░░░░░░░ 16%
+**Consistency:** ██████░░░░░░ 19%
 
 ---
 
