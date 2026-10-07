@@ -14,7 +14,7 @@
 | Oct 04 | Created EcoPulse database schema and analytical queries | Practiced SELECT, SUM() and GROUP BY for carbon-emission analysis | ✅ |
 | Oct 05 | Solved Valid Palindrome | Two Pointers • O(n) • O(1) space | ✅ |
 | Oct 06 | Tested EcoPulse dynamic carbon calculator | Verified DOM-based calculation, reset functionality, and saved results persistence | ✅ |
-| Oct 07 | — | — | ⬜ |
+| Oct 07 | Solved Two Sum II (Sorted Array) | Two Pointers • O(n) • O(1) space | ✅ |
 | Oct 08 | — | — | ⬜ |
 | Oct 09 | — | — | ⬜ |
 | Oct 10 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 6 / 31
+**Completed:** 7 / 31
 
-**Consistency:** ██████░░░░░░ 19%
+**Consistency:** ███████░░░░░░ 23%
 
 ---
 
