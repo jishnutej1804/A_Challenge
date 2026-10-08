@@ -15,7 +15,7 @@
 | Oct 05 | Solved Valid Palindrome | Two Pointers • O(n) • O(1) space | ✅ |
 | Oct 06 | Tested EcoPulse dynamic carbon calculator | Verified DOM-based calculation, reset functionality, and saved results persistence | ✅ |
 | Oct 07 | Solved Two Sum II (Sorted Array) | Two Pointers • O(n) • O(1) space | ✅ |
-| Oct 08 | — | — | ⬜ |
+| Oct 08 | Analyzed sample energy and waste emissions with Pandas | Calculated summary statistics and category-wise emission totals and averages | ✅ |
 | Oct 09 | — | — | ⬜ |
 | Oct 10 | — | — | ⬜ |
 | Oct 11 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 7 / 31
+**Completed:** 8 / 31
 
-**Consistency:** ███████░░░░░░ 23%
+**Consistency:** ████████░░░░ 26%
 
 ---
 
