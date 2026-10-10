@@ -16,7 +16,7 @@
 | Oct 06 | Tested EcoPulse dynamic carbon calculator | Verified DOM-based calculation, reset functionality, and saved results persistence | ✅ |
 | Oct 07 | Solved Two Sum II (Sorted Array) | Two Pointers • O(n) • O(1) space | ✅ |
 | Oct 08 | Analyzed sample energy and waste emissions with Pandas | Calculated summary statistics and category-wise emission totals and averages | ✅ |
-| Oct 09 | — | — | ⬜ |
+| Oct 09 | Solved Best Time to Buy and Sell Stock | Single Pass • O(n) time • O(1) space | ✅ |
 | Oct 10 | — | — | ⬜ |
 | Oct 11 | — | — | ⬜ |
 | Oct 12 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 8 / 31
+**Completed:** 9 / 31
 
-**Consistency:** ████████░░░░ 26%
+**Consistency:** █████████░░░ 29%
 
 ---
 
