@@ -132,6 +132,44 @@ h3 { font-size: 1.1rem; }
 .category-list li { display: flex; align-items: center; gap: .9rem; padding: 1rem 1.2rem; border: 1px solid var(--line); border-radius: 16px; background: var(--white); font-weight: 600; }
 
 /* ===== Dashboard preview ===== */
+/* Dashboard card polish */
+.dashboard .panel {
+  min-width: 0;
+  padding: 1.4rem;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+
+.dashboard .panel:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 32px rgba(0, 0, 0, .08);
+}
+
+.dashboard .panel h3 {
+  line-height: 1.5;
+}
+
+.trend {
+  padding: .5rem;
+  border-radius: 12px;
+  background: var(--track);
+}
+
+.score-ring {
+  margin-inline: auto;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .dashboard .panel {
+    transition: none;
+  }
+
+  .dashboard .panel:hover {
+    transform: none;
+  }
+}
 .dashboard { display: grid; gap: 1rem; }
 .panel h3 { font-family: var(--font-body); font-size: .9rem; color: var(--muted); font-weight: 600; }
 .panel-value { font-family: var(--font-display); font-size: 2.8rem; margin-top: .5rem; line-height: 1; }
