@@ -18,7 +18,7 @@
 | Oct 08 | Analyzed sample energy and waste emissions with Pandas | Calculated summary statistics and category-wise emission totals and averages | ✅ |
 | Oct 09 | Solved Best Time to Buy and Sell Stock | Single Pass • O(n) time • O(1) space | ✅ |
 | Oct 10 | Polished EcoPulse dashboard cards | Responsive UI • Hover effects • Reduced-motion support | ✅ |
-| Oct 11 | — | — | ⬜ |
+| Oct 11 | Solved Valid Parentheses | Stack • LIFO • O(n) time | ✅ |
 | Oct 12 | — | — | ⬜ |
 | Oct 13 | — | — | ⬜ |
 | Oct 14 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 10 / 31
+**Completed:** 11 / 31
 
-**Consistency:** ██████████░░ 32%
+**Consistency:** ███████████░ 35%
 
 ---
 
