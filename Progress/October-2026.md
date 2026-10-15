@@ -22,7 +22,7 @@
 | Oct 12 | Implemented SQL JOINs and RANK | INNER/LEFT JOIN • Window Functions | ✅ |
 | Oct 13 | Completed pre-travel codebase review | Reviewed documentation, EcoPulse files, SQL queries, Python EDA, and GitHub sync | ✅ |
 | Oct 14 | Implemented Queue using Stacks | Created revision notes and tested a two-stack Python queue implementation | ✅ |
-| Oct 15 | — | — | ⬜ |
+| Oct 15 | Solved Reverse Linked List | Three Pointers • O(n) time • O(1) space | ✅ |
 | Oct 16 | — | — | ⬜ |
 | Oct 17 | — | — | ⬜ |
 | Oct 18 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 14 / 31
+**Completed:** 15 / 31
 
-**Consistency:** ██████████████░ 45%
+**Consistency:** ███████████████░ 48%
 
 ---
 

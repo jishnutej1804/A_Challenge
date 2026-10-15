@@ -1,0 +1,60 @@
+# Day 15 — Reverse Linked List
+
+**Problem:** Reverse a singly linked list iteratively.
+
+**LeetCode:** https://leetcode.com/problems/reverse-linked-list/
+
+## 1. Approach
+
+Use three pointers:
+
+- `prev`: Points to the previous node. Initially `None`.
+- `curr`: Points to the current node. Initially `head`.
+- `next_node`: Saves the next node before reversing the current link.
+
+## 2. Algorithm
+
+1. Initialize `prev = None` and `curr = head`.
+2. Save the next node: `next_node = curr.next`.
+3. Reverse the current link: `curr.next = prev`.
+4. Move `prev` forward: `prev = curr`.
+5. Move `curr` forward: `curr = next_node`.
+6. Repeat until `curr` becomes `None`.
+7. Return `prev` as the new head.
+
+## 3. Dry Run
+
+Original list: `1 → 2 → 3 → None`
+
+| Iteration | prev after reversal | curr after moving | Reversed portion |
+|---|---|---|---|
+| 1 | 1 | 2 | 1 → None |
+| 2 | 2 | 3 | 2 → 1 → None |
+| 3 | 3 | None | 3 → 2 → 1 → None |
+
+Final reversed list: `3 → 2 → 1 → None`
+
+## 4. Python Code
+
+```python
+def reverseList(head):
+    prev = None
+    curr = head
+
+    while curr:
+        next_node = curr.next
+        curr.next = prev
+        prev = curr
+        curr = next_node
+
+    return prev
+```
+
+## 5. Complexity
+
+- **Time:** O(n), because every node is processed once.
+- **Extra space:** O(1), because only a fixed number of pointers are used.
+
+## 6. Key Learning
+
+Save the next node before reversing the current link. Otherwise, the remaining list may become inaccessible. The algorithm reverses the links without creating new nodes.
