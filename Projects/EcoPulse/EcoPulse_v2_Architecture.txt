@@ -1,0 +1,83 @@
+ECOPULSE V2 — SYSTEM ARCHITECTURE
+Day 16 | A_Challenge | October 2026
+
+1. PURPOSE
+Plan an improved sustainability dashboard for tracking activities
+and understanding carbon emissions. This document describes the
+proposed architecture; it does not claim the proposed features
+have already been implemented.
+
+2. EXISTING PROJECT FILES
+Frontend:
+- index.html: page structure
+- styles.css: visual styling
+- script.js: client-side behavior
+
+Database scripts:
+- db/schema_and_queries.sql
+- db/window_functions.sql
+
+3. PROPOSED COMPONENT HIERARCHY
+
+EcoPulse v2
+|
++-- User Interface
+|   +-- Navigation
+|   +-- Dashboard Layout
+|   +-- Theme Controls
+|
++-- Activity Tracking
+|   +-- Activity Input
+|   +-- Carbon Calculation
+|   +-- Activity History
+|
++-- Analytics Dashboard
+|   +-- Total Emissions Summary
+|   +-- Activity Count
+|   +-- Category Comparison
+|   +-- Emission Trends
+|
++-- Data Layer
+    +-- JavaScript Data Handling
+    +-- Existing SQL Schema and Queries
+
+4. DASHBOARD WIREFRAME
+- Header with EcoPulse branding and navigation.
+- Summary cards for emissions and activity count.
+- Category-wise emissions visualization.
+- Emission trends section.
+- Recent activity table.
+- Responsive layout for desktop and mobile.
+
+5. PROPOSED DATA FLOW
+User enters an activity
+        |
+        v
+Activity validation
+        |
+        v
+Carbon calculation
+        |
+        v
+Activity data handling
+        |
+        v
+Dashboard summaries and visualizations
+
+Database integration and persistent storage must be verified
+against the existing implementation before being specified as
+working features.
+
+6. DESIGN PRINCIPLES
+- Responsive desktop and mobile layout.
+- Clear, readable emission summaries.
+- Consistent spacing and visual hierarchy.
+- Accessible labels and contrast.
+- Reuse existing project files where practical.
+- Avoid changing the current application during planning.
+
+7. NEXT DESIGN TASK
+Create a visual architecture diagram and dashboard wireframe
+as EcoPulse_v2_Architecture.png.
+
+Status: Architecture planning draft.
