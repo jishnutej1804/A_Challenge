@@ -24,7 +24,7 @@
 | Oct 14 | Implemented Queue using Stacks | Created revision notes and tested a two-stack Python queue implementation | ✅ |
 | Oct 15 | Solved Reverse Linked List | Three Pointers • O(n) time • O(1) space | ✅ |
 | Oct 16 | Planned EcoPulse v2 system architecture and dashboard wireframe | System Design • Component Hierarchy • Data Flow | ✅ |
-| Oct 17 | — | — | ⬜ |
+| Oct 17 | Implemented Binary Search and documented pseudocode and boundary conditions | DSA • Binary Search • O(log n) | ✅ |
 | Oct 18 | — | — | ⬜ |
 | Oct 19 | — | — | ⬜ |
 | Oct 20 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 16 / 31
+**Completed:** 17 / 31
 
-**Consistency:** ████████████████░ 52%
+**Consistency:** █████████████████░ 55%
 
 ---
 
