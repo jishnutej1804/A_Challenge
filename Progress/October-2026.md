@@ -1,52 +1,52 @@
-# ? October 2026
+# ‚ö° October 2026
 
-> **A_Challenge ó Daily Progress**
+> **A_Challenge ‚Äî Daily Progress**
 
 ---
 
-## ?? Progress
+## üìä Progress
 
-| ?? Date | ?? Work Completed | ?? Learning / Outcome | ? |
+| üìÖ Date | üìù Work Completed | üß† Learning / Outcome | ‚úÖ |
 |:---:|:---|:---|:---:|
-| Oct 01 | Solved Two Sum | HashMap ï O(n) | ? |
-| Oct 02 | Initialized EcoPulse sustainability tracker UI | Built responsive HTML/CSS/JS structure and tested desktop/mobile layout | ? |
-| Oct 03 | Solved Valid Anagram | Frequency count array ï O(n) ï O(1) space | ? |
-| Oct 04 | Created EcoPulse database schema and analytical queries | Practiced SELECT, SUM() and GROUP BY for carbon-emission analysis | ? |
-| Oct 05 | Solved Valid Palindrome | Two Pointers ï O(n) ï O(1) space | ? |
-| Oct 06 | Tested EcoPulse dynamic carbon calculator | Verified DOM-based calculation, reset functionality, and saved results persistence | ? |
-| Oct 07 | Solved Two Sum II (Sorted Array) | Two Pointers ï O(n) ï O(1) space | ? |
-| Oct 08 | Analyzed sample energy and waste emissions with Pandas | Calculated summary statistics and category-wise emission totals and averages | ? |
-| Oct 09 | Solved Best Time to Buy and Sell Stock | Single Pass ï O(n) time ï O(1) space | ? |
-| Oct 10 | Polished EcoPulse dashboard cards | Responsive UI ï Hover effects ï Reduced-motion support | ? |
-| Oct 11 | Solved Valid Parentheses | Stack ï LIFO ï O(n) time | ? |
-| Oct 12 | Implemented SQL JOINs and RANK | INNER/LEFT JOIN ï Window Functions | ? |
-| Oct 13 | Completed pre-travel codebase review | Reviewed documentation, EcoPulse files, SQL queries, Python EDA, and GitHub sync | ? |
-| Oct 14 | Implemented Queue using Stacks | Created revision notes and tested a two-stack Python queue implementation | ? |
-| Oct 15 | Solved Reverse Linked List | Three Pointers ï O(n) time ï O(1) space | ? |
-| Oct 16 | Planned EcoPulse v2 system architecture and dashboard wireframe | System Design ï Component Hierarchy ï Data Flow | ? |
-| Oct 17 | Implemented Binary Search and documented pseudocode and boundary conditions | DSA ï Binary Search ï O(log n) | ? |
-| Oct 18 | Solved Search Insert Position & designed SQL queries | Binary Search Lower Bound ï O(log n) ï Window Functions | ? |
-| Oct 19 | ó | ó | ? |
-| Oct 20 | ó | ó | ? |
-| Oct 21 | ó | ó | ? |
-| Oct 22 | ó | ó | ? |
-| Oct 23 | ó | ó | ? |
-| Oct 24 | ó | ó | ? |
-| Oct 25 | ó | ó | ? |
-| Oct 26 | ó | ó | ? |
-| Oct 27 | ó | ó | ? |
-| Oct 28 | ó | ó | ? |
-| Oct 29 | ó | ó | ? |
-| Oct 30 | ó | ó | ? |
-| Oct 31 | ó | ó | ? |
+| Oct 01 | Solved Two Sum | HashMap ‚Ä¢ O(n) | ‚úÖ |
+| Oct 02 | Initialized EcoPulse sustainability tracker UI | Built responsive HTML/CSS/JS structure and tested desktop/mobile layout | ‚úÖ |
+| Oct 03 | Solved Valid Anagram | Frequency count array ‚Ä¢ O(n) ‚Ä¢ O(1) space | ‚úÖ |
+| Oct 04 | Created EcoPulse database schema and analytical queries | Practiced SELECT, SUM() and GROUP BY for carbon-emission analysis | ‚úÖ |
+| Oct 05 | Solved Valid Palindrome | Two Pointers ‚Ä¢ O(n) ‚Ä¢ O(1) space | ‚úÖ |
+| Oct 06 | Tested EcoPulse dynamic carbon calculator | Verified DOM-based calculation, reset functionality, and saved results persistence | ‚úÖ |
+| Oct 07 | Solved Two Sum II (Sorted Array) | Two Pointers ‚Ä¢ O(n) ‚Ä¢ O(1) space | ‚úÖ |
+| Oct 08 | Analyzed sample energy and waste emissions with Pandas | Calculated summary statistics and category-wise emission totals and averages | ‚úÖ |
+| Oct 09 | Solved Best Time to Buy and Sell Stock | Single Pass ‚Ä¢ O(n) time ‚Ä¢ O(1) space | ‚úÖ |
+| Oct 10 | Polished EcoPulse dashboard cards | Responsive UI ‚Ä¢ Hover effects ‚Ä¢ Reduced-motion support | ‚úÖ |
+| Oct 11 | Solved Valid Parentheses | Stack ‚Ä¢ LIFO ‚Ä¢ O(n) time | ‚úÖ |
+| Oct 12 | Implemented SQL JOINs and RANK | INNER/LEFT JOIN ‚Ä¢ Window Functions | ‚úÖ |
+| Oct 13 | Completed pre-travel codebase review | Reviewed documentation, EcoPulse files, SQL queries, Python EDA, and GitHub sync | ‚úÖ |
+| Oct 14 | Implemented Queue using Stacks | Created revision notes and tested a two-stack Python queue implementation | ‚úÖ |
+| Oct 15 | Solved Reverse Linked List | Three Pointers ‚Ä¢ O(n) time ‚Ä¢ O(1) space | ‚úÖ |
+| Oct 16 | Planned EcoPulse v2 system architecture and dashboard wireframe | System Design ‚Ä¢ Component Hierarchy ‚Ä¢ Data Flow | ‚úÖ |
+| Oct 17 | Implemented Binary Search and documented pseudocode and boundary conditions | DSA ‚Ä¢ Binary Search ‚Ä¢ O(log n) | ‚úÖ |
+| Oct 18 | Solved Search Insert Position & designed SQL queries | Binary Search Lower Bound ‚Ä¢ O(log n) ‚Ä¢ Window Functions | ‚úÖ |
+| Oct 19 | Solved Search in Rotated Sorted Array | Binary Search ‚Ä¢ Branch Selection ‚Ä¢ O(log n) | ‚úÖ |
+| Oct 20 | ‚Äî | ‚Äî | ‚¨ú |
+| Oct 21 | ‚Äî | ‚Äî | ‚¨ú |
+| Oct 22 | ‚Äî | ‚Äî | ‚¨ú |
+| Oct 23 | ‚Äî | ‚Äî | ‚¨ú |
+| Oct 24 | ‚Äî | ‚Äî | ‚¨ú |
+| Oct 25 | ‚Äî | ‚Äî | ‚¨ú |
+| Oct 26 | ‚Äî | ‚Äî | ‚¨ú |
+| Oct 27 | ‚Äî | ‚Äî | ‚¨ú |
+| Oct 28 | ‚Äî | ‚Äî | ‚¨ú |
+| Oct 29 | ‚Äî | ‚Äî | ‚¨ú |
+| Oct 30 | ‚Äî | ‚Äî | ‚¨ú |
+| Oct 31 | ‚Äî | ‚Äî | ‚¨ú |
 
 ---
 
-### ?? Progress
+### üìà Progress
 
-**Completed:** 18 / 31
+**Completed:** 19 / 31
 
-**Consistency:** ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶ 58%
+**Consistency:** ‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà‚ñà 61%
 
 ---
 
@@ -56,9 +56,14 @@
 
 ---
 
-### ?? Daily Deep Dives
+### üìå Daily Deep Dives
 
 #### Day 18: Search Insert Position
 - **Category:** Binary Search / Lower Bound Pattern
 - **Files Added:** `DSA/Arrays/day18_search_insert.py`, `DSA/Notes/DSA_Day18_Search_Insert_Position.md`
 - **Key Takeaway:** Handled sorted array search and insertion bounds in $O(\log n)$ runtime and $O(1)$ space using safe midpoint calculations and left-pointer convergence when missing.
+
+#### Day 19: Search in Rotated Sorted Array
+- **Category:** Binary Search Application / Rotated Arrays
+- **Files Added:** `DSA/Arrays/day19_search_rotated.py`, `DSA/Notes/DSA_Rotated_Binary_Search.md`
+- **Key Takeaway:** Checking `nums[left] <= nums[mid]` deterministically identifies which half is strictly sorted, allowing standard range boundaries (`nums[left] <= target < nums[mid]`) to discard half the search space per iteration in $O(\log n)$ time.

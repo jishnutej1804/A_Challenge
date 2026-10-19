@@ -1,7 +1,7 @@
 # Day 19: Search in Rotated Sorted Array
 
 ## 1. Problem Overview
-- **Problem:** LeetCode #33 — Search in Rotated Sorted Array
+- **Problem:** LeetCode #33 Ã¢â‚¬â€ Search in Rotated Sorted Array
 - **Platform:** LeetCode
 - **Complexity:** $O(\log n)$ runtime, $O(1)$ auxiliary space
 - **Core Challenge:** The original array of distinct values was sorted in ascending order and rotated at an unknown pivot index $k$. At any division point `mid`, at least one half of the range (`[left..mid]` or `[mid..right]`) remains strictly sorted.
@@ -12,28 +12,28 @@
 
 ```text
                            [ left <= right ]
-                                   │
+                                   Ã¢â€â€š
                            mid = left + (right - left) // 2
-                                   │
+                                   Ã¢â€â€š
                          nums[mid] == target?
-                                ├── YES ──> Return mid
-                                └── NO
-                                   │
+                                Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ YES Ã¢â€â‚¬Ã¢â€â‚¬> Return mid
+                                Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ NO
+                                   Ã¢â€â€š
                          nums[left] <= nums[mid]?
-                                ├── YES (Left Half is Sorted)
-                                │       │
-                                │   nums[left] <= target < nums[mid]?
-                                │       ├── YES ──> right = mid - 1
-                                │       └── NO  ──> left  = mid + 1
-                                │
-                                └── NO  (Right Half is Sorted)
-                                        │
+                                Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ YES (Left Half is Sorted)
+                                Ã¢â€â€š       Ã¢â€â€š
+                                Ã¢â€â€š   nums[left] <= target < nums[mid]?
+                                Ã¢â€â€š       Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ YES Ã¢â€â‚¬Ã¢â€â‚¬> right = mid - 1
+                                Ã¢â€â€š       Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ NO  Ã¢â€â‚¬Ã¢â€â‚¬> left  = mid + 1
+                                Ã¢â€â€š
+                                Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ NO  (Right Half is Sorted)
+                                        Ã¢â€â€š
                                     nums[mid] < target <= nums[right]?
-                                        ├── YES ──> left  = mid + 1
-                                        └── NO  ──> right = mid - 1
+                                        Ã¢â€Å“Ã¢â€â‚¬Ã¢â€â‚¬ YES Ã¢â€â‚¬Ã¢â€â‚¬> left  = mid + 1
+                                        Ã¢â€â€Ã¢â€â‚¬Ã¢â€â‚¬ NO  Ã¢â€â‚¬Ã¢â€â‚¬> right = mid - 1
 
                   (Loop terminates when left > right)
-                                   │
+                                   Ã¢â€â€š
                               Return -1
 ```
 
