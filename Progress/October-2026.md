@@ -1,4 +1,4 @@
-# ⚡ October 2026
+﻿# ⚡ October 2026
 
 > **A_Challenge — Daily Progress**
 
@@ -25,7 +25,7 @@
 | Oct 15 | Solved Reverse Linked List | Three Pointers • O(n) time • O(1) space | ✅ |
 | Oct 16 | Planned EcoPulse v2 system architecture and dashboard wireframe | System Design • Component Hierarchy • Data Flow | ✅ |
 | Oct 17 | Implemented Binary Search and documented pseudocode and boundary conditions | DSA • Binary Search • O(log n) | ✅ |
-| Oct 18 | — | — | ⬜ |
+| Oct 18 | Designed e-commerce SQL queries and month-over-month emissions analysis | HAVING • Self-Joins • LAG() • Sustainability Analytics | ✅ |
 | Oct 19 | — | — | ⬜ |
 | Oct 20 | — | — | ⬜ |
 | Oct 21 | — | — | ⬜ |
@@ -44,12 +44,18 @@
 
 ### 📈 Progress
 
-**Completed:** 17 / 31
+**Completed:** 18 / 31
 
-**Consistency:** █████████████████░ 55%
+**Consistency:** ██████████████████░ 58%
 
 ---
 
 > **No fixed schedule. No forced categories.**
 >
 > **Just show up and make progress.**
+
+
+### Day 18: Search Insert Position
+- **Category:** Binary Search / Lower Bound Pattern
+- **Files Added:** `DSA/Arrays/day18_search_insert.py`, `DSA/Notes/DSA_Day18_Search_Insert_Position.md`
+- **Key Takeaway:** Handled sorted array search and insertion bounds in $O(\log n)$ runtime and $O(1)$ space using safe midpoint calculations and left-pointer convergence.
