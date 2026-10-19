@@ -1,52 +1,52 @@
-ï»¿# âš¡ October 2026
+# ? October 2026
 
-> **A_Challenge â€” Daily Progress**
+> **A_Challenge — Daily Progress**
 
 ---
 
-## ðŸ“Š Progress
+## ?? Progress
 
-| ðŸ“… Date | ðŸ“ Work Completed | ðŸ§  Learning / Outcome | âœ… |
+| ?? Date | ?? Work Completed | ?? Learning / Outcome | ? |
 |:---:|:---|:---|:---:|
-| Oct 01 | Solved Two Sum | HashMap â€¢ O(n) | âœ… |
-| Oct 02 | Initialized EcoPulse sustainability tracker UI | Built responsive HTML/CSS/JS structure and tested desktop/mobile layout | âœ… |
-| Oct 03 | Solved Valid Anagram | Frequency count array â€¢ O(n) â€¢ O(1) space | âœ… |
-| Oct 04 | Created EcoPulse database schema and analytical queries | Practiced SELECT, SUM() and GROUP BY for carbon-emission analysis | âœ… |
-| Oct 05 | Solved Valid Palindrome | Two Pointers â€¢ O(n) â€¢ O(1) space | âœ… |
-| Oct 06 | Tested EcoPulse dynamic carbon calculator | Verified DOM-based calculation, reset functionality, and saved results persistence | âœ… |
-| Oct 07 | Solved Two Sum II (Sorted Array) | Two Pointers â€¢ O(n) â€¢ O(1) space | âœ… |
-| Oct 08 | Analyzed sample energy and waste emissions with Pandas | Calculated summary statistics and category-wise emission totals and averages | âœ… |
-| Oct 09 | Solved Best Time to Buy and Sell Stock | Single Pass â€¢ O(n) time â€¢ O(1) space | âœ… |
-| Oct 10 | Polished EcoPulse dashboard cards | Responsive UI â€¢ Hover effects â€¢ Reduced-motion support | âœ… |
-| Oct 11 | Solved Valid Parentheses | Stack â€¢ LIFO â€¢ O(n) time | âœ… |
-| Oct 12 | Implemented SQL JOINs and RANK | INNER/LEFT JOIN â€¢ Window Functions | âœ… |
-| Oct 13 | Completed pre-travel codebase review | Reviewed documentation, EcoPulse files, SQL queries, Python EDA, and GitHub sync | âœ… |
-| Oct 14 | Implemented Queue using Stacks | Created revision notes and tested a two-stack Python queue implementation | âœ… |
-| Oct 15 | Solved Reverse Linked List | Three Pointers â€¢ O(n) time â€¢ O(1) space | âœ… |
-| Oct 16 | Planned EcoPulse v2 system architecture and dashboard wireframe | System Design â€¢ Component Hierarchy â€¢ Data Flow | âœ… |
-| Oct 17 | Implemented Binary Search and documented pseudocode and boundary conditions | DSA â€¢ Binary Search â€¢ O(log n) | âœ… |
-| Oct 18 | Designed e-commerce SQL queries and month-over-month emissions analysis | HAVING â€¢ Self-Joins â€¢ LAG() â€¢ Sustainability Analytics | âœ… |
-| Oct 19 | â€” | â€” | â¬œ |
-| Oct 20 | â€” | â€” | â¬œ |
-| Oct 21 | â€” | â€” | â¬œ |
-| Oct 22 | â€” | â€” | â¬œ |
-| Oct 23 | â€” | â€” | â¬œ |
-| Oct 24 | â€” | â€” | â¬œ |
-| Oct 25 | â€” | â€” | â¬œ |
-| Oct 26 | â€” | â€” | â¬œ |
-| Oct 27 | â€” | â€” | â¬œ |
-| Oct 28 | â€” | â€” | â¬œ |
-| Oct 29 | â€” | â€” | â¬œ |
-| Oct 30 | â€” | â€” | â¬œ |
-| Oct 31 | â€” | â€” | â¬œ |
+| Oct 01 | Solved Two Sum | HashMap • O(n) | ? |
+| Oct 02 | Initialized EcoPulse sustainability tracker UI | Built responsive HTML/CSS/JS structure and tested desktop/mobile layout | ? |
+| Oct 03 | Solved Valid Anagram | Frequency count array • O(n) • O(1) space | ? |
+| Oct 04 | Created EcoPulse database schema and analytical queries | Practiced SELECT, SUM() and GROUP BY for carbon-emission analysis | ? |
+| Oct 05 | Solved Valid Palindrome | Two Pointers • O(n) • O(1) space | ? |
+| Oct 06 | Tested EcoPulse dynamic carbon calculator | Verified DOM-based calculation, reset functionality, and saved results persistence | ? |
+| Oct 07 | Solved Two Sum II (Sorted Array) | Two Pointers • O(n) • O(1) space | ? |
+| Oct 08 | Analyzed sample energy and waste emissions with Pandas | Calculated summary statistics and category-wise emission totals and averages | ? |
+| Oct 09 | Solved Best Time to Buy and Sell Stock | Single Pass • O(n) time • O(1) space | ? |
+| Oct 10 | Polished EcoPulse dashboard cards | Responsive UI • Hover effects • Reduced-motion support | ? |
+| Oct 11 | Solved Valid Parentheses | Stack • LIFO • O(n) time | ? |
+| Oct 12 | Implemented SQL JOINs and RANK | INNER/LEFT JOIN • Window Functions | ? |
+| Oct 13 | Completed pre-travel codebase review | Reviewed documentation, EcoPulse files, SQL queries, Python EDA, and GitHub sync | ? |
+| Oct 14 | Implemented Queue using Stacks | Created revision notes and tested a two-stack Python queue implementation | ? |
+| Oct 15 | Solved Reverse Linked List | Three Pointers • O(n) time • O(1) space | ? |
+| Oct 16 | Planned EcoPulse v2 system architecture and dashboard wireframe | System Design • Component Hierarchy • Data Flow | ? |
+| Oct 17 | Implemented Binary Search and documented pseudocode and boundary conditions | DSA • Binary Search • O(log n) | ? |
+| Oct 18 | Solved Search Insert Position & designed SQL queries | Binary Search Lower Bound • O(log n) • Window Functions | ? |
+| Oct 19 | — | — | ? |
+| Oct 20 | — | — | ? |
+| Oct 21 | — | — | ? |
+| Oct 22 | — | — | ? |
+| Oct 23 | — | — | ? |
+| Oct 24 | — | — | ? |
+| Oct 25 | — | — | ? |
+| Oct 26 | — | — | ? |
+| Oct 27 | — | — | ? |
+| Oct 28 | — | — | ? |
+| Oct 29 | — | — | ? |
+| Oct 30 | — | — | ? |
+| Oct 31 | — | — | ? |
 
 ---
 
-### ðŸ“ˆ Progress
+### ?? Progress
 
 **Completed:** 18 / 31
 
-**Consistency:** â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘ 58%
+**Consistency:** ¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦ 58%
 
 ---
 
@@ -54,8 +54,11 @@
 >
 > **Just show up and make progress.**
 
+---
 
-### Day 18: Search Insert Position
+### ?? Daily Deep Dives
+
+#### Day 18: Search Insert Position
 - **Category:** Binary Search / Lower Bound Pattern
 - **Files Added:** `DSA/Arrays/day18_search_insert.py`, `DSA/Notes/DSA_Day18_Search_Insert_Position.md`
-- **Key Takeaway:** Handled sorted array search and insertion bounds in $O(\log n)$ runtime and $O(1)$ space using safe midpoint calculations and left-pointer convergence.
+- **Key Takeaway:** Handled sorted array search and insertion bounds in $O(\log n)$ runtime and $O(1)$ space using safe midpoint calculations and left-pointer convergence when missing.
