@@ -1,4 +1,4 @@
-# ⚡ October 2026
+﻿# ⚡ October 2026
 
 > **A_Challenge — Daily Progress**
 
@@ -27,7 +27,7 @@
 | Oct 17 | Implemented Binary Search and documented pseudocode and boundary conditions | DSA • Binary Search • O(log n) | ✅ |
 | Oct 18 | Solved Search Insert Position & designed SQL queries | Binary Search Lower Bound • O(log n) • Window Functions | ✅ |
 | Oct 19 | Solved Search in Rotated Sorted Array | Binary Search • Branch Selection • O(log n) | ✅ |
-| Oct 20 | — | — | ⬜ |
+| Oct 20 | Documented ML Foundations: Decision Trees, Random Forests & Scaling | Gini Impurity • Entropy • Bagging • Feature Scaling | ✅ |
 | Oct 21 | — | — | ⬜ |
 | Oct 22 | — | — | ⬜ |
 | Oct 23 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 19 / 31
+**Completed:** 20 / 31
 
-**Consistency:** ███████████████████ 61%
+**Consistency:** ████████████████████ 65%
 
 ---
 
@@ -67,3 +67,7 @@
 - **Category:** Binary Search Application / Rotated Arrays
 - **Files Added:** `DSA/Arrays/day19_search_rotated.py`, `DSA/Notes/DSA_Rotated_Binary_Search.md`
 - **Key Takeaway:** Checking `nums[left] <= nums[mid]` deterministically identifies which half is strictly sorted, allowing standard range boundaries (`nums[left] <= target < nums[mid]`) to discard half the search space per iteration in $O(\log n)$ time.
+#### Day 20: ML Foundations (Decision Trees, Random Forests & Scaling)
+- **Category:** Machine Learning / Core Theory
+- **Files Added:** ML_Foundations_Summary.md
+- **Key Takeaway:** Tree-based models evaluate splits using Gini impurity or Information Gain and do not inherently require feature scaling. Random Forests combine bootstrap aggregation (bagging) with random feature subspace sampling to reduce variance and decorrelate individual trees.
