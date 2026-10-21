@@ -28,7 +28,7 @@
 | Oct 18 | Solved Search Insert Position & designed SQL queries | Binary Search Lower Bound • O(log n) • Window Functions | ✅ |
 | Oct 19 | Solved Search in Rotated Sorted Array | Binary Search • Branch Selection • O(log n) | ✅ |
 | Oct 20 | Documented ML Foundations: Decision Trees, Random Forests & Scaling | Gini Impurity • Entropy • Bagging • Feature Scaling | ✅ |
-| Oct 21 | — | — | ⬜ |
+| Oct 21 | Binary Tree DFS Traversals & Maximum Depth | DFS (In/Pre/Postorder) • Recursion Stack • O(n) time • O(h) space | ✅ |
 | Oct 22 | — | — | ⬜ |
 | Oct 23 | — | — | ⬜ |
 | Oct 24 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 20 / 31
+**Completed:** 21 / 31
 
-**Consistency:** ████████████████████ 65%
+**Consistency:** █████████████████████ 68%
 
 ---
 
@@ -67,7 +67,13 @@
 - **Category:** Binary Search Application / Rotated Arrays
 - **Files Added:** `DSA/Arrays/day19_search_rotated.py`, `DSA/Notes/DSA_Rotated_Binary_Search.md`
 - **Key Takeaway:** Checking `nums[left] <= nums[mid]` deterministically identifies which half is strictly sorted, allowing standard range boundaries (`nums[left] <= target < nums[mid]`) to discard half the search space per iteration in $O(\log n)$ time.
+
 #### Day 20: ML Foundations (Decision Trees, Random Forests & Scaling)
 - **Category:** Machine Learning / Core Theory
-- **Files Added:** ML_Foundations_Summary.md
+- **Files Added:** `ML_Foundations_Summary.md`
 - **Key Takeaway:** Tree-based models evaluate splits using Gini impurity or Information Gain and do not inherently require feature scaling. Random Forests combine bootstrap aggregation (bagging) with random feature subspace sampling to reduce variance and decorrelate individual trees.
+
+#### Day 21: Binary Tree DFS & Maximum Depth
+- **Category:** Trees / Depth-First Search (DFS) / Recursion
+- **Files Added:** `DSA/Notes/DSA_Tree_DFS_Notes.md`
+- **Key Takeaway:** Traversed binary trees using Inorder, Preorder, and Postorder recursive patterns. Solved Maximum Depth of Binary Tree using bottom-up postorder recursion with recurrence relation $\text{depth}(\text{node}) = 1 + \max(\text{depth}(\text{left}), \text{depth}(\text{right}))$ in $O(n)$ time and $O(h)$ auxiliary recursion call-stack space.
