@@ -29,7 +29,7 @@
 | Oct 19 | Solved Search in Rotated Sorted Array | Binary Search • Branch Selection • O(log n) | ✅ |
 | Oct 20 | Documented ML Foundations: Decision Trees, Random Forests & Scaling | Gini Impurity • Entropy • Bagging • Feature Scaling | ✅ |
 | Oct 21 | Binary Tree DFS Traversals & Maximum Depth | DFS (In/Pre/Postorder) • Recursion Stack • O(n) time • O(h) space | ✅ |
-| Oct 22 | — | — | ⬜ |
+| Oct 22 | Invert / Flip Binary Tree | Tree Inversion • Recursion Base Case • O(n) time • O(h) space | ✅ |
 | Oct 23 | — | — | ⬜ |
 | Oct 24 | — | — | ⬜ |
 | Oct 25 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 21 / 31
+**Completed:** 22 / 31
 
-**Consistency:** █████████████████████ 68%
+**Consistency:** ██████████████████████ 71%
 
 ---
 
@@ -77,3 +77,10 @@
 - **Category:** Trees / Depth-First Search (DFS) / Recursion
 - **Files Added:** `DSA/Notes/DSA_Tree_DFS_Notes.md`
 - **Key Takeaway:** Traversed binary trees using Inorder, Preorder, and Postorder recursive patterns. Solved Maximum Depth of Binary Tree using bottom-up postorder recursion with recurrence relation $\text{depth}(\text{node}) = 1 + \max(\text{depth}(\text{left}), \text{depth}(\text{right}))$ in $O(n)$ time and $O(h)$ auxiliary recursion call-stack space.
+
+
+#### Day 22: Invert / Flip Binary Tree
+- **Category:** Trees / Depth-First Search (DFS) / Recursion
+- **Files Added:** `DSA/Notes/DSA_Invert_Tree_Pseudocode.md`
+- **Key Takeaway:** Inverted a binary tree recursively by swapping left and right child pointers at each node. Identified the base case (`root is null`), traced recursive calls with an annotated tree diagram, and analyzed runtime ($O(n)$) and call-stack space ($O(h)$).
+
