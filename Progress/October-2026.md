@@ -31,7 +31,7 @@
 | Oct 21 | Binary Tree DFS Traversals & Maximum Depth | DFS (In/Pre/Postorder) • Recursion Stack • O(n) time • O(h) space | ✅ |
 | Oct 22 | Invert / Flip Binary Tree | Tree Inversion • Recursion Base Case • O(n) time • O(h) space | ✅ |
 | Oct 23 | Graph Representation & BFS Path Finding | Adjacency Matrix vs List • BFS Queue • Visited Set Cycle Prevention | ✅ |
-| Oct 24 | — | — | ⬜ |
+| Oct 24 | Web Core Revision: Event Loop & REST | Microtasks vs Macrotasks • Promises Concurrency • HTTP Codes | ✅ |
 | Oct 25 | — | — | ⬜ |
 | Oct 26 | — | — | ⬜ |
 | Oct 27 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 23 / 31
+**Completed:** 24 / 31
 
-**Consistency:** ███████████████████████ 74%
+**Consistency:** ████████████████████████ 77%
 
 ---
 
