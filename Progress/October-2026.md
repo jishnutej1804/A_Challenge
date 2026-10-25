@@ -32,7 +32,7 @@
 | Oct 22 | Invert / Flip Binary Tree | Tree Inversion • Recursion Base Case • O(n) time • O(h) space | ✅ |
 | Oct 23 | Graph Representation & BFS Path Finding | Adjacency Matrix vs List • BFS Queue • Visited Set Cycle Prevention | ✅ |
 | Oct 24 | Web Core Revision: Event Loop & REST | Microtasks vs Macrotasks • Promises Concurrency • HTTP Codes | ✅ |
-| Oct 25 | — | — | ⬜ |
+| Oct 25 | Implemented Merge Intervals and documented the algorithm trace | Sorting • Interval Merging • O(n log n) | ✅ |
 | Oct 26 | — | — | ⬜ |
 | Oct 27 | — | — | ⬜ |
 | Oct 28 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 24 / 31
+**Completed:** 25 / 31
 
-**Consistency:** ████████████████████████ 77%
+**Consistency:** █████████████████████████ 81%
 
 ---
 
