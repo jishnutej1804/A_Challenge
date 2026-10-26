@@ -33,7 +33,7 @@
 | Oct 23 | Graph Representation & BFS Path Finding | Adjacency Matrix vs List • BFS Queue • Visited Set Cycle Prevention | ✅ |
 | Oct 24 | Web Core Revision: Event Loop & REST | Microtasks vs Macrotasks • Promises Concurrency • HTTP Codes | ✅ |
 | Oct 25 | Implemented Merge Intervals and documented the algorithm trace | Sorting • Interval Merging • O(n log n) | ✅ |
-| Oct 26 | — | — | ⬜ |
+| Oct 26 | Solved Climbing Stairs using Dynamic Programming | Fibonacci Recurrence • O(n) Time • O(1) Space | ✅ |
 | Oct 27 | — | — | ⬜ |
 | Oct 28 | — | — | ⬜ |
 | Oct 29 | — | — | ⬜ |
@@ -44,9 +44,9 @@
 
 ### 📈 Progress
 
-**Completed:** 25 / 31
+**Completed:** 26 / 31
 
-**Consistency:** █████████████████████████ 81%
+**Consistency:** █████████████████████████ 84%
 
 ---
 
