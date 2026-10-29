@@ -185,6 +185,21 @@
         <h3>Sustainability score</h3>
         <div class="score-ring" style="--value:78"><b>78</b></div>
       </article>
+      <article class="panel panel-air-quality" id="airQualityPanel">
+        <h3>Live Air Quality</h3>
+        <p class="panel-sub" id="airQualityStatus" role="status" aria-live="polite">
+          Loading environmental data...
+        </p>
+        <p class="panel-value" id="airQualityIndex">-- <small>AQI (1–5)</small></p>
+        <p class="panel-sub" id="airQualityLabel">Waiting for live data</p>
+        <div class="air-quality-details">
+          <p>PM2.5 <strong id="airPm25">--</strong> <small>µg/m³</small></p>
+          <p>PM10 <strong id="airPm10">--</strong> <small>µg/m³</small></p>
+        </div>
+        <button type="button" id="refreshAirQuality">Refresh data</button>
+        <p class="note">Live provider data; readings depend on location and availability.</p>
+      </article>
+
     </div>
   </div>
 </section>
@@ -288,5 +303,6 @@
 
 
 <script src="script.js"></script>
+<script type="module" src="api/environmental_dashboard.js"></script>
 </body>
 </html>

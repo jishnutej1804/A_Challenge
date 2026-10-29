@@ -1,0 +1,8 @@
+
+# EcoPulse environment secrets
+Projects/EcoPulse/.env
+Projects/EcoPulse/.env.*
+!Projects/EcoPulse/.env.example
+
+# Node.js dependencies
+Projects/EcoPulse/node_modules/

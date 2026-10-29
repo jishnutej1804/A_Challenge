@@ -131,7 +131,7 @@ h3 { font-size: 1.1rem; }
 .category-list { display: grid; gap: .7rem; }
 .category-list li { display: flex; align-items: center; gap: .9rem; padding: 1rem 1.2rem; border: 1px solid var(--line); border-radius: 16px; background: var(--white); font-weight: 600; }
 
-/* ===== Dashboard preview ===== */
+/* ===== Dashboard preview ===== */x
 /* Dashboard card polish */
 .dashboard .panel {
   min-width: 0;
@@ -175,6 +175,54 @@ h3 { font-size: 1.1rem; }
 .panel-value { font-family: var(--font-display); font-size: 2.8rem; margin-top: .5rem; line-height: 1; }
 .panel-value small { font-family: var(--font-body); font-size: .9rem; color: var(--muted); }
 .panel-sub { color: var(--accent-text); font-weight: 600; margin-top: .5rem; font-size: .9rem; }
+
+/* ===== Live air quality panel ===== */
+.panel-air-quality {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.air-quality-details {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.air-quality-details p {
+  padding: 0.8rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  font-size: 0.85rem;
+}
+
+.air-quality-details strong {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 1.15rem;
+}
+
+.panel-air-quality button {
+  margin-top: 1rem;
+  padding: 0.65rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--btn-bg);
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.panel-air-quality button:hover {
+  border-color: var(--emerald);
+}
+
+.panel-air-quality button:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+
 .trend { display: flex; align-items: flex-end; gap: .6rem; height: 130px; margin-top: 1rem; }
 .trend i { position: relative; flex: 1; height: calc(var(--value) * 1%); width: auto; inset: auto; transform-origin: bottom; border-radius: 8px 8px 3px 3px; background: linear-gradient(0deg, var(--emerald), var(--emerald-light)); transition: none; }
 .dashboard.is-visible .trend i { animation: grow 1s var(--ease) both; }
