@@ -10,9 +10,9 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Serve the EcoPulse frontend files.
-app.use(express.static(__dirname));
+app.use(express.static(path.join(__dirname, "public")));
 
-// Basic health check to verify the backend is running.
+// Basic health check.
 app.get("/api/health", (req, res) => {
   res.json({
     status: "ok",
@@ -20,7 +20,7 @@ app.get("/api/health", (req, res) => {
   });
 });
 
-
+// Retrieve air-quality data.
 app.get("/api/environmental/air-quality", async (req, res) => {
   const latitude = Number(req.query.latitude);
   const longitude = Number(req.query.longitude);
@@ -68,6 +68,12 @@ app.get("/api/environmental/air-quality", async (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
-  console.log(`EcoPulse server running at http://localhost:${PORT}`);
-});
+// Export the app so Vercel can handle incoming requests.
+export default app;
+
+// Start a local server only when this file is run directly.
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  app.listen(PORT, () => {
+    console.log(`EcoPulse server running at http://localhost:${PORT}`);
+  });
+}
