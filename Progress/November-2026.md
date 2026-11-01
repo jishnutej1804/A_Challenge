@@ -16,19 +16,19 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **0** |
-| Remaining | **30** |
-| Consistency | **0%** |
+| Completed | **1** |
+| Remaining | **29** |
+| Consistency | **3.3%** |
 
 ### PROGRESS BAR
 
-`░░░░░░░░░░░░░░░░░░░░` **0%**
+`▓░░░░░░░░░░░░░░░░░░░` **3.3%**
 
 ---
 
 ## ◈ MONTHLY OBJECTIVES
 
-- [ ] Maintain consistent GitHub contributions.
+- [x] Maintain consistent GitHub contributions.
 - [ ] Strengthen Data Structures and Algorithms.
 - [ ] Improve programming and technical skills.
 - [ ] Explore new technologies and concepts.
@@ -44,7 +44,7 @@
 
 | Date | Activity | Status |
 |:---|:---|:---:|
-| Nov 01 | | ⏳ |
+| Nov 01 | Set up November workspace and progress tracker | ✅ |
 | Nov 02 | | ⏳ |
 | Nov 03 | | ⏳ |
 | Nov 04 | | ⏳ |
