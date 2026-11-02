@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **1** |
-| Remaining | **29** |
-| Consistency | **3.3%** |
+| Completed | **2** |
+| Remaining | **28** |
+| Consistency | **6.7%** |
 
 ### PROGRESS BAR
 
-`▓░░░░░░░░░░░░░░░░░░░` **3.3%**
+`▓░░░░░░░░░░░░░░░░░░░` **6.7%**
 
 ---
 
@@ -45,7 +45,7 @@
 | Date | Activity | Status |
 |:---|:---|:---:|
 | Nov 01 | Set up November workspace and progress tracker | ✅ |
-| Nov 02 | | ⏳ |
+| Nov 02 | Solved Contains Duplicate using a set | ✅ |
 | Nov 03 | | ⏳ |
 | Nov 04 | | ⏳ |
 | Nov 05 | | ⏳ |
@@ -115,10 +115,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | — |
-| Technical Concepts Learned | — |
+| DSA Problems Solved | 1 |
+| Technical Concepts Learned | Sets / Hashing |
 | Projects Worked On | — |
-| GitHub Contributions | — |
+| GitHub Contributions | 2 |
 
 ---
 
