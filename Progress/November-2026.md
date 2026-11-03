@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **2** |
-| Remaining | **28** |
-| Consistency | **6.7%** |
+| Completed | **3** |
+| Remaining | **27** |
+| Consistency | **10%** |
 
 ### PROGRESS BAR
 
-`▓░░░░░░░░░░░░░░░░░░░` **6.7%**
+`▓▓░░░░░░░░░░░░░░░░░░░` **10%**
 
 ---
 
@@ -46,7 +46,7 @@
 |:---|:---|:---:|
 | Nov 01 | Set up November workspace and progress tracker | ✅ |
 | Nov 02 | Solved Contains Duplicate using a set | ✅ |
-| Nov 03 | | ⏳ |
+| Nov 03 | Solved Move Zeroes using two pointers | ✅ |
 | Nov 04 | | ⏳ |
 | Nov 05 | | ⏳ |
 | Nov 06 | | ⏳ |
@@ -115,10 +115,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 1 |
-| Technical Concepts Learned | Sets / Hashing |
+| DSA Problems Solved | 2 |
+| Technical Concepts Learned | Sets / Hashing • Two Pointers |
 | Projects Worked On | — |
-| GitHub Contributions | 2 |
+| GitHub Contributions | 3 |
 
 ---
 
