@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **3** |
-| Remaining | **27** |
-| Consistency | **10%** |
+| Completed | **4** |
+| Remaining | **26** |
+| Consistency | **13.3%** |
 
 ### PROGRESS BAR
 
-`▓▓░░░░░░░░░░░░░░░░░░░` **10%**
+`▓▓▓░░░░░░░░░░░░░░░░░░` **13.3%**
 
 ---
 
@@ -47,7 +47,7 @@
 | Nov 01 | Set up November workspace and progress tracker | ✅ |
 | Nov 02 | Solved Contains Duplicate using a set | ✅ |
 | Nov 03 | Solved Move Zeroes using two pointers | ✅ |
-| Nov 04 | | ⏳ |
+| Nov 04 | Solved Maximum Subarray using Kadane's algorithm | ✅ |
 | Nov 05 | | ⏳ |
 | Nov 06 | | ⏳ |
 | Nov 07 | | ⏳ |
@@ -115,10 +115,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 2 |
-| Technical Concepts Learned | Sets / Hashing • Two Pointers |
+| DSA Problems Solved | 3 |
+| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm |
 | Projects Worked On | — |
-| GitHub Contributions | 3 |
+| GitHub Contributions | 4 |
 
 ---
 
