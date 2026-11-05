@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **4** |
-| Remaining | **26** |
-| Consistency | **13.3%** |
+| Completed | **5** |
+| Remaining | **25** |
+| Consistency | **16.7%** |
 
 ### PROGRESS BAR
 
-`▓▓▓░░░░░░░░░░░░░░░░░░` **13.3%**
+`▓▓▓░░░░░░░░░░░░░░░░░░` **16.7%**
 
 ---
 
@@ -39,6 +39,7 @@
 
 ## ◈ WEEKLY PROGRESS
 
+**Click the arrow mark to see the progress for each week!**
 <details>
 <summary><strong>WEEK 01</strong> · November 01–07</summary>
 
@@ -48,7 +49,7 @@
 | Nov 02 | Solved Contains Duplicate using a set | ✅ |
 | Nov 03 | Solved Move Zeroes using two pointers | ✅ |
 | Nov 04 | Solved Maximum Subarray using Kadane's algorithm | ✅ |
-| Nov 05 | | ⏳ |
+| Nov 05 | Solved Single Number using bitwise XOR | ✅ |
 | Nov 06 | | ⏳ |
 | Nov 07 | | ⏳ |
 
@@ -115,10 +116,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 3 |
-| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm |
+| DSA Problems Solved | 4 |
+| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm • Bitwise XOR|
 | Projects Worked On | — |
-| GitHub Contributions | 4 |
+| GitHub Contributions | 5 |
 
 ---
 
