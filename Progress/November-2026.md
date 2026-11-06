@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **5** |
-| Remaining | **25** |
-| Consistency | **16.7%** |
+| Completed | **6** |
+| Remaining | **24** |
+| Consistency | **20** |
 
 ### PROGRESS BAR
 
-`▓▓▓░░░░░░░░░░░░░░░░░░` **16.7%**
+`▓▓▓▓░░░░░░░░░░░░░░░░░` **20%**
 
 ---
 
@@ -50,7 +50,7 @@
 | Nov 03 | Solved Move Zeroes using two pointers | ✅ |
 | Nov 04 | Solved Maximum Subarray using Kadane's algorithm | ✅ |
 | Nov 05 | Solved Single Number using bitwise XOR | ✅ |
-| Nov 06 | | ⏳ |
+| Nov 06 | Solved Majority Element using Boyer-Moore voting | ✅ |
 | Nov 07 | | ⏳ |
 
 </details>
@@ -116,10 +116,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 4 |
-| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm • Bitwise XOR|
+| DSA Problems Solved | 5 |
+| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm • Bitwise XOR • Boyer-Moore Voting|
 | Projects Worked On | — |
-| GitHub Contributions | 5 |
+| GitHub Contributions | 6 |
 
 ---
 
