@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **6** |
-| Remaining | **24** |
-| Consistency | **20** |
+| Completed | **7** |
+| Remaining | **23** |
+| Consistency | **23.3** |
 
 ### PROGRESS BAR
 
-`▓▓▓▓░░░░░░░░░░░░░░░░░` **20%**
+`▓▓▓▓▓░░░░░░░░░░░░░░░` **23.3%**
 
 ---
 
@@ -51,7 +51,7 @@
 | Nov 04 | Solved Maximum Subarray using Kadane's algorithm | ✅ |
 | Nov 05 | Solved Single Number using bitwise XOR | ✅ |
 | Nov 06 | Solved Majority Element using Boyer-Moore voting | ✅ |
-| Nov 07 | | ⏳ |
+| Nov 07 | Maximum Depth of Binary Tree | ✅ |
 
 </details>
 
@@ -116,10 +116,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 5 |
-| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm • Bitwise XOR • Boyer-Moore Voting|
+| DSA Problems Solved | 6 |
+| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion|
 | Projects Worked On | — |
-| GitHub Contributions | 6 |
+| GitHub Contributions | 7 |
 
 ---
 
