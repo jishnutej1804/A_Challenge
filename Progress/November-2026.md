@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **8** |
-| Remaining | **22** |
-| Consistency | **26.7** |
+| Completed | **9** |
+| Remaining | **21** |
+| Consistency | **30** |
 
 ### PROGRESS BAR
 
-`▓▓▓▓▓▓░░░░░░░░░░░░░░` **26.7%**
+`▓▓▓▓▓▓░░░░░░░░░░░░░░` **30%**
 
 ---
 
@@ -61,7 +61,7 @@
 | Date | Activity | Status |
 |:---|:---|:---:|
 | Nov 08 | Find if Path Exists in a Graph | ✅ |
-| Nov 09 | | ⏳ |
+| Nov 09 | Climbing Stairs | ✅ |
 | Nov 10 | | ⏳ |
 | Nov 11 | | ⏳ |
 | Nov 12 | | ⏳ |
@@ -116,10 +116,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 7 |
-| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS|
+| DSA Problems Solved | 8 |
+| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Fibonacci|
 | Projects Worked On | — |
-| GitHub Contributions | 8 |
+| GitHub Contributions | 9 |
 
 ---
 
