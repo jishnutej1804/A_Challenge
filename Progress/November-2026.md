@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **10** |
-| Remaining | **20** |
-| Consistency | **33.3** |
+| Completed | **11** |
+| Remaining | **19** |
+| Consistency | **367** |
 
 ### PROGRESS BAR
 
-`▓▓▓▓▓▓▓░░░░░░░░░░░░░` **33.3%**
+`▓▓▓▓▓▓▓░░░░░░░░░░░░░` **36.7%**
 
 ---
 
@@ -63,7 +63,7 @@
 | Nov 08 | Find if Path Exists in a Graph | ✅ |
 | Nov 09 | Climbing Stairs | ✅ |
 | Nov 10 | Merge Two Sorted Lists | ✅ |
-| Nov 11 | | ⏳ |
+| Nov 11 | Evaluate Reverse Polish Notation | ✅ |
 | Nov 12 | | ⏳ |
 | Nov 13 | | ⏳ |
 | Nov 14 | | ⏳ |
@@ -116,10 +116,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 9 |
-| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Fibonacci • Linked Lists • Iteration|
+| DSA Problems Solved | 10 |
+| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Fibonacci • Linked Lists • Iteration • Stack • Expression Evaluation|
 | Projects Worked On | — |
-| GitHub Contributions | 10 |
+| GitHub Contributions | 11 |
 
 ---
 
