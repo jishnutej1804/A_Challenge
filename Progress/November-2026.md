@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **11** |
-| Remaining | **19** |
-| Consistency | **367** |
+| Completed | **12** |
+| Remaining | **18** |
+| Consistency | **40%** |
 
 ### PROGRESS BAR
 
-`▓▓▓▓▓▓▓░░░░░░░░░░░░░` **36.7%**
+`▓▓▓▓▓▓▓▓░░░░░░░░░░░░` **40%**
 
 ---
 
@@ -64,7 +64,7 @@
 | Nov 09 | Climbing Stairs | ✅ |
 | Nov 10 | Merge Two Sorted Lists | ✅ |
 | Nov 11 | Evaluate Reverse Polish Notation | ✅ |
-| Nov 12 | | ⏳ |
+| Nov 12 | Flood Fill | ✅ |
 | Nov 13 | | ⏳ |
 | Nov 14 | | ⏳ |
 
