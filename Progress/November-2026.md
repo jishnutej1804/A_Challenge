@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **13** |
-| Remaining | **17** |
-| Consistency | **43.3%** |
+| Completed | **14** |
+| Remaining | **16** |
+| Consistency | **46.7%** |
 
 ### PROGRESS BAR
 
-`▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` **43.3%**
+`▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` **46.7%**
 
 ---
 
@@ -66,7 +66,7 @@
 | Nov 11 | Evaluate Reverse Polish Notation | ✅ |
 | Nov 12 | Flood Fill | ✅ |
 | Nov 13 | Number of Islands | ✅ |
-| Nov 14 | | ⏳ |
+| Nov 14 | Rotting Oranges | ✅ |
 
 </details>
 
@@ -117,7 +117,7 @@
 | Achievement | Result |
 |:---|:---|
 | DSA Problems Solved | 10 |
-| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Expression Evaluation|
+| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Expression Evaluation • Multi-source BFS|
 | Projects Worked On | — |
 | GitHub Contributions | 11 |
 
