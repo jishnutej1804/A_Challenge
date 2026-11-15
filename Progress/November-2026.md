@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **14** |
-| Remaining | **16** |
-| Consistency | **46.7%** |
+| Completed | **15** |
+| Remaining | **15** |
+| Consistency | **50%** |
 
 ### PROGRESS BAR
 
-`▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` **46.7%**
+`▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` **50%**
 
 ---
 
@@ -75,7 +75,7 @@
 
 | Date | Activity | Status |
 |:---|:---|:---:|
-| Nov 15 | | ⏳ |
+| Nov 15 | Product of Array Except Self | ✅ |
 | Nov 16 | | ⏳ |
 | Nov 17 | | ⏳ |
 | Nov 18 | | ⏳ |
@@ -116,10 +116,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 10 |
-| Technical Concepts Learned | Sets / Hashing • Two Pointers • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Expression Evaluation • Multi-source BFS|
+| DSA Problems Solved | 14 |
+| Technical Concepts Learned | Sets / Hashing • Two Pointers • Prefix & Suffix Products • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Expression Evaluation • Multi-source BFS|
 | Projects Worked On | — |
-| GitHub Contributions | 11 |
+| GitHub Contributions | 15 |
 
 ---
 
