@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **15** |
-| Remaining | **15** |
-| Consistency | **50%** |
+| Completed | **16** |
+| Remaining | **14** |
+| Consistency | **53.3%** |
 
 ### PROGRESS BAR
 
-`▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` **50%**
+`▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` **53.3%**
 
 ---
 
@@ -76,7 +76,7 @@
 | Date | Activity | Status |
 |:---|:---|:---:|
 | Nov 15 | Product of Array Except Self | ✅ |
-| Nov 16 | | ⏳ |
+| Nov 16 | Daily Temperatures | ✅ |
 | Nov 17 | | ⏳ |
 | Nov 18 | | ⏳ |
 | Nov 19 | | ⏳ |
@@ -116,10 +116,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 14 |
-| Technical Concepts Learned | Sets / Hashing • Two Pointers • Prefix & Suffix Products • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Expression Evaluation • Multi-source BFS|
+| DSA Problems Solved | 15 |
+| Technical Concepts Learned | Sets / Hashing • Two Pointers • Prefix & Suffix Products • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Monotonic Stack • Expression Evaluation • Multi-source BFS|
 | Projects Worked On | — |
-| GitHub Contributions | 15 |
+| GitHub Contributions | 16 |
 
 ---
 
