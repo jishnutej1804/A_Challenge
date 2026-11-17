@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **16** |
-| Remaining | **14** |
-| Consistency | **53.3%** |
+| Completed | **17** |
+| Remaining | **13** |
+| Consistency | **56.7%** |
 
 ### PROGRESS BAR
 
-`▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` **53.3%**
+`▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` **56.7%**
 
 ---
 
@@ -77,7 +77,7 @@
 |:---|:---|:---:|
 | Nov 15 | Product of Array Except Self | ✅ |
 | Nov 16 | Daily Temperatures | ✅ |
-| Nov 17 | | ⏳ |
+| Nov 17 | First Unique Character in a String | ✅ |
 | Nov 18 | | ⏳ |
 | Nov 19 | | ⏳ |
 | Nov 20 | | ⏳ |
@@ -116,10 +116,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 15 |
-| Technical Concepts Learned | Sets / Hashing • Two Pointers • Prefix & Suffix Products • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Monotonic Stack • Expression Evaluation • Multi-source BFS|
+| DSA Problems Solved | 16 |
+| Technical Concepts Learned | Strings • Hash Map • Frequency Counting • Sets / Hashing • Two Pointers • Prefix & Suffix Products • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Monotonic Stack • Expression Evaluation • Multi-source BFS|
 | Projects Worked On | — |
-| GitHub Contributions | 16 |
+| GitHub Contributions | 17 |
 
 ---
 
