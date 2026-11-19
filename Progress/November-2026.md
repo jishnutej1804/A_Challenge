@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **18** |
-| Remaining | **12** |
-| Consistency | **60%** |
+| Completed | **19** |
+| Remaining | **11** |
+| Consistency | **63.3%** |
 
 ### PROGRESS BAR
 
-`▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` **60%**
+`▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` **63.3%**
 
 ---
 
@@ -79,7 +79,7 @@
 | Nov 16 | Daily Temperatures | ✅ |
 | Nov 17 | First Unique Character in a String | ✅ |
 | Nov 18 | Longest Substring Without Repeating Characters | ✅ |
-| Nov 19 | | ⏳ |
+| Nov 19 | Subarray Sum Equals K | ✅ |
 | Nov 20 | | ⏳ |
 | Nov 21 | | ⏳ |
 
@@ -116,10 +116,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 17 |
-| Technical Concepts Learned | Strings • Sliding Window • Hash Set • Hash Map • Frequency Counting • Sets / Hashing • Two Pointers • Prefix & Suffix Products • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Monotonic Stack • Expression Evaluation • Multi-source BFS|
+| DSA Problems Solved | 18 |
+| Technical Concepts Learned | Arrays • Prefix Sum • Strings • Sliding Window • Hash Set • Hash Map • Frequency Counting • Sets / Hashing • Two Pointers • Prefix & Suffix Products • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Monotonic Stack • Expression Evaluation • Multi-source BFS|
 | Projects Worked On | — |
-| GitHub Contributions | 18 |
+| GitHub Contributions | 19 |
 
 ---
 
