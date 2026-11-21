@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **20** |
-| Remaining | **10** |
-| Consistency | **66.7%** |
+| Completed | **21** |
+| Remaining | **9** |
+| Consistency | **70%** |
 
 ### PROGRESS BAR
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` **66.7%**
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` **70%**
 
 ---
 
@@ -81,7 +81,7 @@
 | Nov 18 | Longest Substring Without Repeating Characters | ✅ |
 | Nov 19 | Subarray Sum Equals K | ✅ |
 | Nov 20 | Binary Tree Level Order Traversal | ✅ |
-| Nov 21 | | ⏳ |
+| Nov 21 | Search in Rotated Sorted Array | ✅ |
 
 </details>
 
@@ -116,10 +116,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 19 |
+| DSA Problems Solved | 20 |
 | Technical Concepts Learned | Arrays • Prefix Sum • Strings • Sliding Window • Hash Set • Hash Map • Frequency Counting • Sets / Hashing • Two Pointers • Prefix & Suffix Products • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Dynamic Programming • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Monotonic Stack • Expression Evaluation • Multi-source BFS|
 | Projects Worked On | — |
-| GitHub Contributions | 20 |
+| GitHub Contributions | 21 |
 
 ---
 
