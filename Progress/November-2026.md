@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **25** |
-| Remaining | **5** |
-| Consistency | **83.3%** |
+| Completed | **26** |
+| Remaining | **4** |
+| Consistency | **86.7%** |
 
 ### PROGRESS BAR
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` **83.3%**
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` **86.7%%**
 
 ---
 
@@ -94,7 +94,7 @@
 | Nov 23 | Course Schedule | ✅ |
 | Nov 24 |  Implement Trie | ✅ |
 | Nov 25 | Unique Paths | ✅ |
-| Nov 26 | | ⏳ |
+| Nov 26 |Coin Change | ✅ |
 | Nov 27 | | ⏳ |
 | Nov 28 | | ⏳ |
 
@@ -116,10 +116,10 @@
 
 | Achievement | Result |
 |:---|:---|
-| DSA Problems Solved | 24 |
-| Technical Concepts Learned | Arrays • Prefix Sum • Strings • Sliding Window • Heap • Hash Set • Hash Map • Frequency Counting • Sets / Hashing • Two Pointers • Prefix & Suffix Products • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Topological Sorting • Dynamic Programming • 2D Grid • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Monotonic Stack • Expression Evaluation • Multi-source BFS • Strings • Trie • Prefix Tree|
+| DSA Problems Solved | 25 |
+| Technical Concepts Learned | Arrays • Prefix Sum • Strings • Sliding Window • Heap • Hash Set • Hash Map • Frequency Counting • Sets / Hashing • Two Pointers • Prefix & Suffix Products • Kadane's Algorithm • Bitwise XOR • Boyer-Moore • Voting Trees • Recursion • Graphs • DFS • Topological Sorting • Dynamic Programming • 1D DP • 2D Grid • Matrix Traversal • Fibonacci • Linked Lists • Iteration • Stack • Monotonic Stack • Expression Evaluation • Multi-source BFS • Strings • Trie • Prefix Tree|
 | Projects Worked On | — |
-| GitHub Contributions | 25 |
+| GitHub Contributions | 26 |
 
 ---
 
