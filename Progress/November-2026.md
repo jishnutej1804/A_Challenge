@@ -16,13 +16,13 @@
 | 📌 Metric | 📊 Progress |
 |:---|:---:|
 | Total Days | **30** |
-| Completed | **26** |
-| Remaining | **4** |
-| Consistency | **86.7%** |
+| Completed | **27** |
+| Remaining | **3** |
+| Consistency | **90%** |
 
 ### PROGRESS BAR
 
-`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` **86.7%%**
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` **90%**
 
 ---
 
@@ -92,10 +92,10 @@
 |:---|:---|:---:|
 | Nov 22 | Top K Frequent Elements | ✅ |
 | Nov 23 | Course Schedule | ✅ |
-| Nov 24 |  Implement Trie | ✅ |
+| Nov 24 | Implement Trie | ✅ |
 | Nov 25 | Unique Paths | ✅ |
-| Nov 26 |Coin Change | ✅ |
-| Nov 27 | | ⏳ |
+| Nov 26 | Coin Change | ✅ |
+| Nov 27 | Word Ladder | ✅ |
 | Nov 28 | | ⏳ |
 
 </details>
